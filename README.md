@@ -29,6 +29,9 @@ It is a **Pytorch** implementation.
 # Dataset
 CRVD Dataset (https://github.com/cao-cong/RViDeNet)
 
+# Usage
+modify `data_root` in `config.py`, and `gt_name/noisy_name` in function `decode_data` in`load_data.py`, and run `train.py` for training process. After convergence， run `inference.py` for validation process.
+
 # Results
 ISO average raw psnr:42.02, iso frame average raw ssim:0.9800 in CRVD datasets (~5.38GFLPs), which is still lower than the experiment results mentioned in paper. 
 
@@ -38,4 +41,5 @@ This implementations are inspired by following projects:
  
  
 *Many thanks for coming here! It will be highly appreciated if you offer any suggestion.
+
 Support me by starring or forking this repo., please.*
