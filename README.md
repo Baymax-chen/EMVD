@@ -31,5 +31,5 @@ CRVD Dataset
 
 # Acknowledgement
 This implementations are inspired by following projects:
-[RViDeNet]  (https://github.com/cao-cong/RViDeNet)
+- [RViDeNet]  (https://github.com/cao-cong/RViDeNet)
  
