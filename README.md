@@ -40,6 +40,6 @@ This implementations are inspired by following projects:
 - [RViDeNet]  (https://github.com/cao-cong/RViDeNet)
  
  
-*Many thanks for coming here! It will be highly appreciated if you offer any suggestion.
+*Many thanks for coming here! It will be highly appreciated if you offer any suggestion.*
 
-Support me by starring or forking this repo., please.*
+*Support me by starring or forking this repo., please.*
