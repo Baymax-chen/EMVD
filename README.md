@@ -22,14 +22,19 @@ It is a **Pytorch** implementation.
 # Code
 1. `config.py` is the code for setting hyperparameters.
 2. `dataset.py` and load_data.py is the code for loading data from dataset.
-3. `train.py` is the code for taining process
+3. `train.py` is the code for training process
 4. `inference.py` is the code for validation process.
 5. `models.py` and `./isp/ISP_CNN.pth` is called by `inference.py` for converting .tiff to .png, which refer to the code RViDeNet(https://github.com/cao-cong/RViDeNet).
 
 # Dataset
 CRVD Dataset
 
+# Results
+PSNR is 42.02db (5.38GFLOPs), which is still lower than the experiment results mentioned in paper. 
+
 # Acknowledgement
 This implementations are inspired by following projects:
 - [RViDeNet]  (https://github.com/cao-cong/RViDeNet)
  
+*Many thanks for coming here! It will be highly appreciated if you offer any suggestion.
+Support me by starring or forking this repo., please.*
