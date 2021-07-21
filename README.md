@@ -16,7 +16,7 @@ It is a **Pytorch** implementation.
 1. PyTorch>=1.6
 2. Numpy
 3. scikti-image
-4. tensorboardX (for visualization of loss, PSNR and SSIM)
+4. tensorboardX (for visualization of loss, PSNR and images)
 5. torchstat （for computing GFLOPs）
 
 # Code
