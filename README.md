@@ -30,7 +30,7 @@ It is a **Pytorch** implementation.
 CRVD Dataset
 
 # Results
-ISO average raw psnr:42.02, iso frame average raw ssim:0.9800 in CRVD datasets, which is still lower than the experiment results mentioned in paper. 
+ISO average raw psnr:42.02, iso frame average raw ssim:0.9800 in CRVD datasets (~5.38GFLPs), which is still lower than the experiment results mentioned in paper. 
 
 # Acknowledgement
 This implementations are inspired by following projects:
