@@ -8,7 +8,7 @@ ngpu = 1
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 # generate data
-data_root = ['./CRVD_dataset/']
+data_root = ['./datset/', './CRVD_dataset/']
 output_root = './results/'
 
 image_height                    = 128
